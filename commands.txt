@@ -1,0 +1,5 @@
+activate virtual environment:
+conda activate ovparts
+
+deactivate virtual environment:
+conda deactivate
