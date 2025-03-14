@@ -1,8 +1,14 @@
 enter wsl ubuntu:
 wsl -d Ubuntu
 
+show current env list:
+conda env list
+
 activate virtual environment:
-conda activate ovparts
+conda activate ovparts_env
 
 deactivate virtual environment:
 conda deactivate
+
+delete env:
+conda env remove -n <env_name>
