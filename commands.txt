@@ -1,3 +1,6 @@
+enter wsl ubuntu:
+wsl -d Ubuntu
+
 activate virtual environment:
 conda activate ovparts
 
